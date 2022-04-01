@@ -1,5 +1,5 @@
 # hello_world
-This repository containers a hello world workflow.
+Relative hello world instructions [here](docs/hello_world.md).
 
 INSTALLATION
 -------------
